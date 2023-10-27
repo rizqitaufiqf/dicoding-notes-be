@@ -1,5 +1,9 @@
 # dicoding-notes-be
 
+## Execute
+```angular2html
+pm2 start pm2/ecosystem.config.cjs --env prod
+```
 
 
 ## Getting started
