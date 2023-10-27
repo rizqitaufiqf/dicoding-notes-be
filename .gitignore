@@ -1,0 +1,6 @@
+# folders
+docs
+node_modules
+
+#files
+pnpm-lock.yaml
