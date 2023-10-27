@@ -4,6 +4,10 @@
 ```angular2html
 pm2 start pm2/ecosystem.config.cjs --env prod
 ```
+or
+```angular2html
+pm2 start --name "dicoding-notes-be" -- run "start"
+```
 
 
 ## Getting started
